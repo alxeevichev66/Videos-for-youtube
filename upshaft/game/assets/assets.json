@@ -1,0 +1,5 @@
+{
+  "_comment": "Add images/sounds by key. Missing keys fall back to shapes / synth blips. Keys used: player_head, player_torso, arm_upper, arm_fore, hand_closed, hand_spread, hand_fist, item_piton, item_rebar, item_food, item_pills, item_injector; sounds: grab, release, pickup, hurt, death, slip, crack, warn, use, win, click, land",
+  "images": {},
+  "sounds": {}
+}
